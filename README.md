@@ -7,9 +7,9 @@ Macro Breakdown: View the breakdown of macronutrients (proteins, fats, and carbo
 Responsive Design: A user-friendly interface that works well on both desktop and mobile devices.
 
 ## Technologies Used
-Next.js: A React framework for server-side rendering and static site generation.
-React: A JavaScript library for building user interfaces.
-ShadCN: A popular component library
+- Next.js: A React framework for server-side rendering and static site generation.
+- React: A JavaScript library for building user interfaces.
+- ShadCN: A popular component library
 
 ## Getting Started
 - Ensure you have Node.js installed on your machine. You can check if Node.js is installed by running:
